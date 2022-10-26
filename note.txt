@@ -1,7 +1,13 @@
 Redux es un manejador de estados.
 
+https://react-redux.js.org/tutorials/quick-start                     redux
+
+https://www.youtube.com/watch?v=w2rAP7d6ndg&list=LL&index=17&t=4s    video-ref
+
 Creamos src/app/store.js
 
-<Provider><App /></Provider>
+<Provider>
+    <App />
+</Provider>
 
 --min 10:52
