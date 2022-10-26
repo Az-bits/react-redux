@@ -1,0 +1,7 @@
+Redux es un manejador de estados.
+
+Creamos src/app/store.js
+
+<Provider><App /></Provider>
+
+--min 10:52
